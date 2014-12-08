@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>Unzip.WINRT</title>
+    <authors>Daniel Kreuzhofer (@dkreuzh)</authors>
+    <owners>Daniel Kreuzhofer (@dkreuzh)</owners>
+    <licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
+    <projectUrl>https://github.com/kreuzhofer/Unzip.WINRT</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This library helps you unzipping ZIP files in your WINRT applications.</description>
+    <releaseNotes>Initial version. Still in development.</releaseNotes>
+    <copyright>Copyright 2014 - Daniel Kreuzhofer</copyright>
+    <tags>Unzip WINRT</tags>
+  </metadata>
+</package>
